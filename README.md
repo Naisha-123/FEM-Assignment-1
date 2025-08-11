@@ -1,2 +1,2 @@
 # FEM-Assignment-1
-Codes and reuslts to the assignment
+Codes and results to the assignment
